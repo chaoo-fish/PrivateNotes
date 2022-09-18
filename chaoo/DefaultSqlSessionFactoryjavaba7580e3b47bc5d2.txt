@@ -1,0 +1,1 @@
+{"version":"ba7580e3b47bc5d2","fileName":"DefaultSqlSessionFactory.java","fileSimpleName":"DefaultSqlSessionFactory","fileType":"java","notes":{"92":"首先创建environment对象","94":"根据配置文件汇总的数据源和指定的事务隔离级别，以及是否提交来创建我们真正的的事务对象","95":"执行器"}}

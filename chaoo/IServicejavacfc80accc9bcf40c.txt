@@ -1,0 +1,1 @@
+{"version":"cfc80accc9bcf40c","fileName":"IService.java","fileSimpleName":"IService","fileType":"java","notes":{"81":"批量操作不推荐，因为是循环处理的","75":"十大"}}

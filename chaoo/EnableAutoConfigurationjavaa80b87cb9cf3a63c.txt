@@ -1,0 +1,1 @@
+{"version":"a80b87cb9cf3a63c","fileName":"EnableAutoConfiguration.java","fileSimpleName":"EnableAutoConfiguration","fileType":"java","notes":{"82":"将main包下素有的组件注册到容器中","83":"EnableAutoConfiguration 只是一个简单地注解，自动装配核心功能的实现实际是通过 AutoConfigurationImportSelector 类"}}

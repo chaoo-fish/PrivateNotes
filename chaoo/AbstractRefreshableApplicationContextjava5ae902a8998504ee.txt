@@ -1,0 +1,1 @@
+{"version":"5ae902a8998504ee","fileName":"AbstractRefreshableApplicationContext.java","fileSimpleName":"AbstractRefreshableApplicationContext","fileType":"java","notes":{"128":"对 IoC 容器进行定制化，如设置启动参数、开启注解的自动装配等","129":"调用 Bean 定义的方法，也是使用委派模式，当类中定义了抽象的 loadBeanDefinitions() 方法时，调用子类容器实现","121":"如果已经有容器，则销毁容器中的 Bean，然后关闭容器","126":"创建 IoC 容器"}}

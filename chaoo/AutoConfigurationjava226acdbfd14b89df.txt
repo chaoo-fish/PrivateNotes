@@ -1,0 +1,1 @@
+{"version":"226acdbfd14b89df","fileName":"AutoConfiguration.java","fileSimpleName":"AutoConfiguration","fileType":"java","notes":{"59":"注解配置类"}}

@@ -1,0 +1,1 @@
+{"version":"c1f4513b7389ce40","fileName":"AopAutoConfiguration.java","fileSimpleName":"AopAutoConfiguration","fileType":"java","notes":{"45":"如果配置了 spring.aop 配置项就开启，这个注解有 matchIfMissing 属性的值是 true，表示这 个条件是生效"}}

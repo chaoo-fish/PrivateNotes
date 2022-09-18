@@ -1,0 +1,1 @@
+{"version":"233ee2f1bc01274b","fileName":"AbstractBeanFactory.java","fileSimpleName":"AbstractBeanFactory","fileType":"java","notes":{"256":"判断","247":"获取IoC容器中Bean","251":"根据指定名称获取被管理的Bean的名称","206":"真正像Ioc容器获取被管理的 Bean","255":"获取单例"}}

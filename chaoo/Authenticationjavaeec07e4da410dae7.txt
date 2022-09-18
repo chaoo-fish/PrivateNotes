@@ -1,0 +1,1 @@
+{"version":"eec07e4da410dae7","fileName":"Authentication.java","fileSimpleName":"Authentication","fileType":"java","notes":{"96":"是否被认证（true：认证成功，false：未认证）","66":"用户权限集合","82":"未认证时为前端请求传入的用户名，认证成功后为封装认证用户信息的 UserDetails 对象","116":"设置是否被认证（true：认证成功，false：未认证）","74":"请求携带的一些属性信息，如 remoteAddress，sessionId"}}

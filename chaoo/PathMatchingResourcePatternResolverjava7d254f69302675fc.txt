@@ -1,0 +1,1 @@
+{"version":"7d254f69302675fc","fileName":"PathMatchingResourcePatternResolver.java","fileSimpleName":"PathMatchingResourcePatternResolver","fileType":"java","notes":{"223":"在这个构造器中设置了 Spring 资源加载器"}}

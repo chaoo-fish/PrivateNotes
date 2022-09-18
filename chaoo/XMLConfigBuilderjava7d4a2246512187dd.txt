@@ -1,0 +1,1 @@
+{"version":"7d4a2246512187dd","fileName":"XMLConfigBuilder.java","fileSimpleName":"XMLConfigBuilder","fileType":"java","notes":{"97":"从配置文件中检查 configuration 节点中所有内容","98":"执行玩evalNode()，就获取到了configuartion中的内容","116":"读取环境配置","276":"读取environments配置源码","119":"解析 Mappers 标签，获取到映射文件","103":"读取外部的属性文件，并进行把如 jdbc.properties 文件中的内容封装到 Properties 对象中","221":"读取properties配置文件"}}

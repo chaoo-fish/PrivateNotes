@@ -1,0 +1,1 @@
+{"version":"09dc707f0e077a31","fileName":"Configuration.java","fileSimpleName":"Configuration","fileType":"java","notes":{"706":"这里就是执行SQL语句的地方","709":"判断是否开启缓存，在MyBatis中有两级缓存，一级缓存是 SqlSession，它不能关闭；第二级缓 存是 SqlSessionFactory，它是可以控制","710":"如果开启缓存配置，则执行带缓存的执行器 CachingExecutor"}}

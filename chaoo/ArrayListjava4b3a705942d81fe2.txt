@@ -1,0 +1,1 @@
+{"version":"4b3a705942d81fe2","fileName":"ArrayList.java","fileSimpleName":"ArrayList","fileType":"java","notes":{"258":"新容量"}}

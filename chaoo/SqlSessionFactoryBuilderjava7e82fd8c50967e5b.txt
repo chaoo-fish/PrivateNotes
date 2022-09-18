@@ -1,0 +1,1 @@
+{"version":"7e82fd8c50967e5b","fileName":"SqlSessionFactoryBuilder.java","fileSimpleName":"SqlSessionFactoryBuilder","fileType":"java","notes":{"77":"解析xml文件头部信息","94":"配置文件解析完成","95":"创建DefaultSqlSessionFactory对象"}}

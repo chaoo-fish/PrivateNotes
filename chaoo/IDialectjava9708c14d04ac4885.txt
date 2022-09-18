@@ -1,0 +1,1 @@
+{"version":"9708c14d04ac4885","fileName":"IDialect.java","fileSimpleName":"IDialect","fileType":"java","notes":{"26":"方言-----C语言中用I开头"}}

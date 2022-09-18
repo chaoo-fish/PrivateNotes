@@ -1,0 +1,1 @@
+{"version":"4369cdefef4609da","fileName":"RandomAccess.java","fileSimpleName":"RandomAccess","fileType":"java","notes":{"66":"随机访问接口标识"}}

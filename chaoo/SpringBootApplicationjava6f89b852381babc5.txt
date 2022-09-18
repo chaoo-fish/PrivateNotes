@@ -1,0 +1,1 @@
+{"version":"6f89b852381babc5","fileName":"SpringBootApplication.java","fileSimpleName":"SpringBootApplication","fileType":"java","notes":{"50":"限制注解的使用范围","51":"指定其所修饰的注解的保留策略","52":"标记注解，用于指定一个注解会被文档化","53":"使父类的注解能被子类继承","55":"启用 SpringBoot 的自动配置机制"}}

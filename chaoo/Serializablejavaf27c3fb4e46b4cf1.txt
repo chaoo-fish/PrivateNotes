@@ -1,0 +1,1 @@
+{"version":"f27c3fb4e46b4cf1","fileName":"Serializable.java","fileSimpleName":"Serializable","fileType":"java","notes":{"168":"可序列化接口"}}

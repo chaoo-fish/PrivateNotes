@@ -1,0 +1,1 @@
+{"version":"1eb7f5b6f2239788","fileName":"SpringFactoriesLoader.java","fileSimpleName":"SpringFactoriesLoader","fileType":"java","notes":{"131":"进入","67":"自动装配扫描位置","142":"资源位置"}}
